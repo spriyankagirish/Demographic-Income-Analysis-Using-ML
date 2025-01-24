@@ -1,5 +1,8 @@
 # Demographic-Income-Analysis-Using-ML
 An analysis of the Adult dataset to explore demographic factors affecting income levels, with machine learning models used to predict whether individuals earn over $50K.
+
+
+
 The notebook is focused on analyzing a dataset (from the Adult dataset) with the following steps:
 
 ### Objective:
