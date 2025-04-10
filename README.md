@@ -16,3 +16,22 @@ The project aims to analyze the "Adult" dataset, which includes demographic and 
 
 ### Conclusion:
 The analysis reveals significant income disparities based on race and gender. For instance, a higher percentage of men across all races tend to earn more than $50K compared to women. Black females are more likely to earn less than $50K compared to black males, highlighting income inequality. Furthermore, white males dominate the higher income bracket, while other racial groups are underrepresented. This analysis demonstrates the power of machine learning models in predicting income categories but also emphasizes systemic inequalities that persist in the dataset.
+
+
+ ---
+
+### Note on Dataset Access
+
+To maintain data privacy and prevent misuse, the dataset used in this project is not uploaded directly to this repository.
+
+**If you're a recruiter  who would like to access the dataset**, please request access here:(https://drive.google.com/file/d/1VZCKPtHCzXFcXct2OdA2ELFkTEWSjJpJ/view?usp=sharing)
+
+Once approved, you’ll receive a link to the dataset via Google Drive within 24 hours.
+
+*This ensures project security while keeping it fully reproducible.*
+
+In Your Code (Notebook or Script):
+
+# Dataset not included in the public repo
+
+# Please request access using the link in the README to get the dataset![Uploading image.png…]()
