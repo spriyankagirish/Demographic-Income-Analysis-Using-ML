@@ -34,4 +34,4 @@ In Your Code (Notebook or Script):
 
 # Dataset not included in the public repo
 
-# Please request access using the link in the README to get the dataset![Uploading image.png…]()
+# Please request access using the link in the README to get the dataset
